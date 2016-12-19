@@ -1,3 +1,6 @@
 index.jade
 sass/main.sass
 sass/_colors.sass
+css/bootstrap.min.css
+css/normalize.css
+js/bootstrap.min.js
