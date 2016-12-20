@@ -3,4 +3,7 @@ sass/main.sass
 sass/_colors.sass
 css/bootstrap.min.css
 css/normalize.css
+css/normalize.min.css
 js/bootstrap.min.js
+css/main.min.css
+*.jade
