@@ -8,3 +8,4 @@ js/bootstrap.min.js
 css/main.min.css
 *.jade
 includes/*
+css/bootstrap.min.css
