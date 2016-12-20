@@ -7,3 +7,4 @@ css/normalize.min.css
 js/bootstrap.min.js
 css/main.min.css
 *.jade
+includes/*
