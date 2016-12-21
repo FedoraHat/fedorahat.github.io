@@ -1,5 +1,5 @@
 body {
-  padding-top: 40px; }
+  padding-top: 70px; }
 
 .icon-bar {
   background-color: #FFF; }
@@ -23,4 +23,21 @@ body {
 
 #section {
   background-color: #FFF0F0;
-  padding-bottom: 42%; }
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-top: 1px solid #e1e1e1;
+  border-bottom: 1px solid #e1e1e1;
+}
+#container {
+  background-color: #6b85d8;
+  position: relative;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+@media (min-width: 777px) {
+#container img {
+  margin-left: 30%;
+  height: 40%;
+  width: 40%;
+}
+}
